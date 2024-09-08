@@ -1,1 +1,1 @@
-"# C-plus-studies" 
+<h2>Factorial calculation project</h2>
